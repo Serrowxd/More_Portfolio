@@ -1,0 +1,25 @@
+{
+  "name": "More_Portfolio",
+  "version": "1.0.0",
+  "description": "I'm making another portfolio, because the last one is outdated.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch ./styles -o ./styles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serrowxd/More_Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serrowxd/More_Portfolio/issues"
+  },
+  "homepage": "https://github.com/Serrowxd/More_Portfolio#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "node-sass": "^4.14.1"
+  }
+}
