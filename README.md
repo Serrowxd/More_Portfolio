@@ -1,8 +1,5 @@
 I'm making another portfolio, because the last one is outdated.
 
-This one will be a lot more simplistic, featuring ThreeJS paired with React and SASS to showcase my design concepts as well as my code.
+This time it's just simple HTML/JQuery/SCSS, with no outside styling libraries so I can keep it clean.
 
-Scripts:
-
-- `npm run scss` starts the scss watch process
-- `npm start` creates a local process for the project
+`npm run scss` starts the scss watcher
